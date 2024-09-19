@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           This is deployed on cloudflare
+          Dody you are big balaha
         </p>
       </header>
     </div>
